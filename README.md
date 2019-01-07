@@ -13,5 +13,4 @@ https://murmuring-cove-53275.herokuapp.com/
 * Express.js
 
 
-![picture](.png)
-![picture](.png)
+![friend-finder-gif](friend-finder-gif.gif)
