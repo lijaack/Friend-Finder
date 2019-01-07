@@ -16,8 +16,8 @@ var friendsData = [
       ]
     },
     {
-      "name":"Jack",
-      "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmafQYXBv-CM-lX6t4geWKB5kUHXAUUpwem47cAtuckdq1dFXgtg",
+      "name":"Thor",
+      "photo":"https://www.syfy.com/sites/syfy/files/styles/1200x1200/public/2017/11/thor_the_dark_world_01.jpg?itok=55DZmZyS&timestamp=1509647127",
       "scores":[
           3,
           1,
@@ -32,8 +32,8 @@ var friendsData = [
           ]
       },
       {
-        "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Deadpool",
+        "photo":"https://www.kiss917.com/wp-content/uploads/sites/4/2018/02/deadpool-2-featured-image.jpg",
         "scores":[
             5,
             1,
